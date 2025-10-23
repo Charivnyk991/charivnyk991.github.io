@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'uk'
+title = 'Блог чарівника'
+theme = 'blowfish'
+defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = ['en']
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
