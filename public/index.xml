@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Тест</title>
+      <link>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81_test/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Микола)</author>
+      <guid>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81_test/</guid>
+      <description>123</description>
+      
+    </item>
+    
+    <item>
       <title>Як я живу</title>
       <link>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
