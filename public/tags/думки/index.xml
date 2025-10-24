@@ -9,7 +9,17 @@
     <managingEditor>youremail@example.com (Микола)</managingEditor>
     <webMaster>youremail@example.com (Микола)</webMaster>
     <copyright>© 2025 Микола</copyright>
-    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%B4%D1%83%D0%BC%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%B4%D1%83%D0%BC%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Як підписатись на цей блог ?</title>
+      <link>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Микола)</author>
+      <guid>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</guid>
+      <description>Опис того як підписатися на оновлення блогу, створенного на HUGO, через rss стрічку.</description>
+      
+    </item>
     
     <item>
       <title>Де я живу</title>
@@ -27,16 +37,6 @@
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Микола)</author>
       <guid>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81_test/</guid>
-      <description>123</description>
-      
-    </item>
-    
-    <item>
-      <title>Як я живу</title>
-      <link>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (Микола)</author>
-      <guid>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</guid>
       <description>123</description>
       
     </item>

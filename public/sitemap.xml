@@ -4,30 +4,42 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%812/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/%D0%B4%D1%83%D0%BC%D0%BA%D0%B8/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%812/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -40,12 +52,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/%D1%89%D0%BE%D1%81%D1%8C/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D0%B8/%D0%B4%D0%BE%D0%BF%D0%B8%D1%811/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
